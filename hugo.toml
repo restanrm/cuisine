@@ -3,6 +3,10 @@ languageCode = 'fr-fr'
 title = 'Recettes de Cuisine'
 theme = "PaperMod"
 
+[taxonomies]
+  categories = "categories"
+  tags = "tags"
+
 [menu]
   [[menu.main]]
     name = "Accueil"
@@ -36,3 +40,7 @@ theme = "PaperMod"
     name = "Tartes"
     url = "/tartes/"
     weight = 2
+
+[params]
+ShowPostTags = true
+ShowBreadCrumbs = true
