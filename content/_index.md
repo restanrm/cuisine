@@ -6,10 +6,10 @@ facilement afin de tous pouvoir se faire plaisir.
 ## Quelque recettes phares 
 
 
-  - [Crème de poivrons](apero/creme-de-poivrons/)
-  - [Pâte à Pizza](pates/pate-a-pizza.md)
-  - [Chouquettes](pates/chouquettes.md)
-  - [Buns](pates/buns.md)
-  - [Cookies Americains](desserts/cookies.md)
-  - [Madeleines](desserts/madeleines.md)
-  - ['B&B'](petit-dej/b-and-b.md)
+  - [Crème de poivrons](posts/creme-de-poivrons/)
+  - [Pâte à Pizza](posts/pate-a-pizza/)
+  - [Chouquettes](posts/chouquettes/)
+  - [Buns](posts/buns/)
+  - [Cookies Americains](posts/cookies/)
+  - [Madeleines](posts/madeleines/)
+  - ['B&B'](posts/b-and-b/)

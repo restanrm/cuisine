@@ -1,0 +1,38 @@
+baseURL: "https://cuisine.restanrm.fr/"
+languageCode: "fr-fr"
+title: "Recettes de Cuisine"
+theme: "PaperMod"
+
+#sectionPagesMenu: "main"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  categories: categories
+  tags: tags
+
+menu:
+  main:
+    - name: Accueil
+      url: /
+      weight: 1
+    - name: Search
+      url: /search
+      weight: 2
+    - name: Categories
+      url: /categories
+      weight: 3
+    - name: Tags
+      url: /tags
+      weight: 4
+    - name: All
+      url: /posts/
+      weight: 5
+
+params:
+  ShowPostTags: true
+  ShowBreadCrumbs: true
