@@ -10,3 +10,27 @@
 [submodule "themes/cuisine-book"]
 	path = themes/cuisine-book
 	url = https://github.com/ntk148v/hugo-cuisine-book
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = https://github.com/google/docsy
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra
+[submodule "themes/test"]
+	path = themes/test
+	url = https://github.com/athul/archie
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie
