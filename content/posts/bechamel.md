@@ -1,6 +1,7 @@
 ---
 title: Béchamel
-tags: ["sauce"]
+categories:
+- sauce
 ---
 
 ## Ingrédients

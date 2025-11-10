@@ -1,7 +1,7 @@
 ---
 title: Crèpes de blé noir
 categories:
-- crèpes
+- crepes
 ---
 
 ## Ingrédients

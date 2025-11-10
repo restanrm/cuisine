@@ -1,7 +1,7 @@
 ---
 title: Pâte à pizza
 categories:
-- pizza
+- boulange
 ---
 
 ## Ingrédients

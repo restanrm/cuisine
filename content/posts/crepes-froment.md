@@ -1,7 +1,7 @@
 ---
 title: Crèpes de froment
 categories:
-- crèpes
+- crepes
 ---
 
 ## Ingrédients

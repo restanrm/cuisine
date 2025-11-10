@@ -3,7 +3,7 @@ title: "Baba Ghanouj"
 tags:
 - dips
 categories:
-- Apéro
+- Apero
 ---
 
 ## Description

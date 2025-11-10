@@ -1,7 +1,7 @@
 ---
 title: CheeseCake
 tags: 
-- USA
+- usa
 categories:
 - desserts
 ---

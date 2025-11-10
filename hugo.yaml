@@ -17,28 +17,30 @@ taxonomies:
 
 menu:
   main:
-    - name: Accueil
-      url: /
-      weight: 1
-    - name: Search
-      url: /search
-      weight: 2
-    - name: Categories
-      url: /categories
-      weight: 3
-    - name: Tags
-      url: /tags
-      weight: 4
-    - name: All
+    # - name: Accueil
+    #   url: /
+    #   weight: 1
+    # - name: Search
+    #   url: /search
+    #   weight: 2
+    # - name: Categories
+    #   url: /categories
+    #   weight: 3
+    # - name: Tags
+    #   url: /tags
+    #   weight: 4
+    - name: All posts
       url: /posts/
       weight: 5
 
 params:
+  author: "Adrien Raffin"
+  description: "Recettes de cuisine à partager en famille"
   ShowPostTags: true
   ShowBreadCrumbs: true
 
   ui:
-    stickyHeader: true
+    stickyHeader: false
     showSearch: true
     searchEngine: fuse
 
@@ -50,4 +52,4 @@ params:
       - tags
   single:
     toc:
-      enabled: false
+      enable: false
