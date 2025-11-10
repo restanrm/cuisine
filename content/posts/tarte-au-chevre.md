@@ -1,6 +1,5 @@
 ---
 title: Tarte au chèvre sur compotée d'oignons
-date: 2025-11-09
 tags: ["tarte", "chèvre"]
 categories:
 - plat

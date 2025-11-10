@@ -1,6 +1,5 @@
 ---
 title: "Wraps au chèvre"
-date: 2025-11-09
 tags: 
 - sandwich
 categories:

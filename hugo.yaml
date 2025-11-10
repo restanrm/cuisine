@@ -33,6 +33,9 @@ menu:
       url: /posts/
       weight: 5
 
+pagination:
+  pagersize: 20
+
 params:
   author: "Adrien Raffin"
   description: "Recettes de cuisine à partager en famille"

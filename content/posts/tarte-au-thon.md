@@ -1,7 +1,8 @@
 ---
 title: "Tarte au thon"
-date: 2025-11-09
 tags: ["tarte", "thon"]
+categories:
+- plat
 ---
 
 ## Ingrédients

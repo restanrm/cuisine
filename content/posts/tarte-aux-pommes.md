@@ -1,6 +1,5 @@
 ---
 title: "Tarte aux pommes"
-date: 2025-11-09
 tags:
 - tarte
 categories:
