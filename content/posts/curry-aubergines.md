@@ -1,9 +1,9 @@
 ---
-title: Curry Aubergines
+title: Curry d'Aubergines
 date: 2025-11-09
 tags:
-- Curry
-- été
+- curry
+- soleil
 - LaGrandeBouffe
 categories:
 - plat

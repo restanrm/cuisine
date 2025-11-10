@@ -1,7 +1,10 @@
 ---
 title: Pancakes américains
+tags:
+- usa
 categories:
 - petit-dej
+- crèpes
 ---
 
 ## Description
