@@ -8,6 +8,8 @@ categories:
 - sauce
 ---
 
+![sauce](sauce-poivre.png)
+
 ## Ingrédients
 
 * 1 échalotte
