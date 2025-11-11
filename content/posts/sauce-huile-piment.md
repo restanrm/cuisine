@@ -4,6 +4,7 @@ rating: 4
 date: 2025-11-08
 tags: 
 - LaGrandeBouffe
+- piment
 categories:
 - sauce
 ---
